@@ -3533,7 +3533,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-@media (max-width: 850px) {
+@media (max-width: 600px) {
   .img-fluid1 {
 
 width: 300px;
@@ -3560,7 +3560,7 @@ height: 250px;
 }
 
 
-@media (max-width: 1500px) {
+@media (min-width: 1000px) {
  
  .img-fluid2 {
 
